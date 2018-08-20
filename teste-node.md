@@ -1,10 +1,14 @@
+Em nossos testes avaliamos conhecimento técnico, clareza, criatividade e organização de código. 
+
+Procure resolver as questões da melhor maneira possivel.
+
 1) Como se chama o conceito que permite que uma função acesse variáveis de sua função pai?
 
-    a) Polimorfismo
-    b) Closure
-    c) Heranca
-    d) Singleton
-    e) Nenhum dos citados
+    a. Polimorfismo
+    b. Closure
+    c. Heranca
+    d. Singleton
+    e. Nenhum dos citados
 
 2) Considerando o funcionamento de Async/Await, Qual dessas respostas não está correta:
 
