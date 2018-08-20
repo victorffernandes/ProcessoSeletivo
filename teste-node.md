@@ -2,6 +2,8 @@ Em nossos testes avaliamos conhecimento técnico, clareza, criatividade e organi
 
 Procure resolver as questões da melhor maneira possivel.
 
+
+
 1) Como se chama o conceito que permite que uma função acesse variáveis de sua função pai?
 
     1. Polimorfismo
@@ -12,9 +14,9 @@ Procure resolver as questões da melhor maneira possivel.
 
 2) Considerando o funcionamento de Async/Await, Qual dessas respostas não está correta:
 
-    a) A expressão await pausa a execução da função assíncrona e espera pela resolução da Promise passada
-    b) Simplificam o uso de Promises na forma sincrona
-    c) A expressão async pausa a execução da função assíncrona e espera pela resolução da Promise passada
+    1. A expressão await pausa a execução da função assíncrona e espera pela resolução da Promise passada
+    2. Simplificam o uso de Promises na forma sincrona
+    3. A expressão async pausa a execução da função assíncrona e espera pela resolução da Promise passada
 
 3) Descubra e corrija o erro código abaixo:
 
@@ -112,11 +114,11 @@ start();
 
 7) Considerando o funcionamento das arrow functions, marque as opções corretas:
 
-    a) Possuem sintaxe mais curta
-    b) São sempre anônimas
-    c) Simplificam o uso de Promises na forma sincrona
-    d) Servem apenas para realizar buscas
-    e) Não repassam o this do pai no bind
+    1. Possuem sintaxe mais curta
+    2. São sempre anônimas
+    3. Simplificam o uso de Promises na forma sincrona
+    4. Servem apenas para realizar buscas
+    5. Não repassam o this do pai no bind
 
 8) Refatore a função "amigos" para que utilize arrow functions:
 
@@ -141,11 +143,11 @@ start();
 
 9) Quais dos itens abaixo não são frameworks de teste:
 
-    a) Jest
-    b) Mocha
-    c) Express
-    d) Supertest
-    e) Restify
+    1. Jest
+    2. Mocha
+    3. Express
+    4. Supertest
+    5. Restify
 
 10) Crie um script em nodeJs, utilizando tetes e as melhores práticas de desenvolvimento, para resolver o problema abaixo:
 
